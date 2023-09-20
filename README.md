@@ -1,8 +1,8 @@
 - 👋 Hi, I’m joshua @jgirthcpa
-- 👀 I’m interested in becoming a developer & data analyst.
-- 🌱 I’m currently learning power bi & dax.
+- 👀 I’m interested in becoming a developer & data scientist or engineer.
+- 🌱 I’m currently learning power lots of ChatGPT capabilities.
 - 💞️ I’m looking to collaborate on tips, tricks and helping people live a life worth living.
-- 📫 How to reach me thru linkedin maybe?
+- 📫 How to reach me would be best thru linkedin?  learning slack atm too.
 
 <!---
 jgirthcpa/jgirthcpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
